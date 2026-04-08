@@ -17,9 +17,7 @@ This project presents an interactive Excel dashboard used to analyze sales perfo
 ## Dashboard Preview
 
 ![Excel Dashboard](
-Excel_dashboard.png
-Revenue_by_Category.png
-Revenue_by_Month.png)
+Excel_dashboard.png)
 
 ## Files Included
 
